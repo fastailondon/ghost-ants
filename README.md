@@ -1,6 +1,7 @@
 # Fastai Study Group London - Project Collection
 
-Repository to share and collaborate on our projects!
+Repository to share and collaborate on our projects. 
+Feel free to upload your notebooks to the *nbs/* directory.
 
 ## Getting Started
 
