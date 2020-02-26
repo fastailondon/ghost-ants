@@ -1,0 +1,9 @@
+name: ghost-ants
+channels:
+  - conda-forge
+  - fastai
+dependencies:
+  - pip
+  - fastai
+  - pip:
+      - nbdev
