@@ -4,6 +4,7 @@ channels:
   - fastai
 dependencies:
   - pip
+  - jupyter
   - fastai
   - pip:
       - nbdev
